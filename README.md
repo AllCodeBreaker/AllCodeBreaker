@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building resources <br>👯 I’m looking to collaborate on learning <br>🤝 I’m looking for help with software developers <br>🌱 I’m currently learning MERN stack development <br>💬 Ask me about programming <br>⚡ Fun fact I'm addicted to programming 
-
+🔭 I’m currently working on building resources <br>👯 I’m looking to collaborate on building opensource softwares <br>🤝 I’m looking for help with software developers <br>🌱 I’m currently learning MERN stack development <br>💬 Ask me about programming <br> ⚡ Programming is the secret of my knowledge.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/allcodebreaker ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allwin-a-023970291) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/allcodebreaker) 
