@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on myself <br>👯 I’m looking to collaborate on building opensource softwares <br>🤝 I’m looking for help with software developers <br>🌱 I’m currently learning MERN stack development <br>💬 Ask me about programming <br> ⚡ Programming is the secret of my knowledge. 
+I'm a college student with a deep passion for technology, programming, and cybersecurity. I’ve built my skills through self-learning, hands-on projects, and a curiosity for how things work — and how they break. I'm especially interested in secure software development and ethical hacking, and I'm always exploring ways to make technology safer and more impactful. Whether it's building new tools or analyzing vulnerabilities, I'm driven by a desire to learn, improve, and contribute to meaningful tech.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/allcodebreaker ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allwin-a-023970291) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/allcodebreaker) 
